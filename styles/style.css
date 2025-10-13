@@ -141,7 +141,7 @@
     text-decoration: none;
 }
 .card {
-    padding: 47px 40px;
+    padding: 48px 41px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -181,6 +181,7 @@
     z-index: 1;
     margin-top: 37px;
     font-size: 20px;
+    line-height: 120%;
 }
 
 .lots__look-more-link {
